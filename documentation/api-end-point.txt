@@ -1,0 +1,10 @@
+// Endpoint
+// 	/api/auth/register--->post
+// 	/api/auth/login---->post
+// 	/api/auth/user-profile---->get
+// 	/api/auth/refresh--->post
+// 	/api/auth/logout--->post
+// 	/api/auth/verify--->post
+// /api/auth/reset--->get
+
+
